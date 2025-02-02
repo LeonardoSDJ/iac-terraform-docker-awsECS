@@ -2,7 +2,7 @@
 
 ## 📝 Resumo do Projeto
 
-Este projeto foi inicialmente desenvolvido durante o curso: "Infraestrutura como código: Terraform, Docker e Elastic Container Service" da plataforma Alura, focando em Infraestrutura como Código (IaC) com Docker e Terraform, utilizando a AWS como provedor de infraestrutura. Posteriormente, o projeto foi expandido com melhorias significativas implementadas para aprofundamento dos estudos.
+Este projeto foi inicialmente desenvolvido durante o curso: "Infraestrutura como código: Terraform, Docker e Elastic Container Service" da plataforma Alura, focando em Infraestrutura como Código (IaC) com Docker e Terraform, utilizando a AWS como provedor de infraestrutura. Posteriormente, o projeto foi expandido com melhorias para aprofundamento dos estudos.
 
 ## 🔨 Funcionalidades do Projeto
 
